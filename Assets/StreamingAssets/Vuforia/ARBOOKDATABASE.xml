@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="sun_1" size="4.000000 5.706874" />
+    <ImageTarget name="SUN" size="4.000000 3.000000" />
+    <ImageTarget name="SHIP" size="4.000000 2.834713" />
+    <ImageTarget name="HOUSE" size="4.000000 2.883853" />
+    <ImageTarget name="FOREST" size="4.000000 2.854614" />
+    <ImageTarget name="CAR" size="4.000000 2.836228" />
+    <ImageTarget name="ARBOOK" size="4.000000 2.903993" />
+    <ImageTarget name="AEROPLANE" size="4.000000 2.821654" />
+  </Tracking>
+</QCARConfig>
