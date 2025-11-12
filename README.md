@@ -56,8 +56,9 @@ The AR Book bridges physical and digital learning through cutting-edge Augmented
 
 ### 🏠 Scene 1: Menu Scene
 The main navigation hub featuring:
-- **Start Button** - Begin the AR experience
-- **Info Button** - View project details
+- **Intro Button** - Cover Page like a Book to Display Project Intro
+- **Display Button** - To View Models of each targeted image
+- **Facts Button** - To View Facts on the particular image target  
 - **Exit Button** - Close the application
 
 ### 🎬 Scene 2: Intro Scene
@@ -90,10 +91,19 @@ Educational content screen showing:
 ## 📦 Installation
 
 ### Prerequisites
-- Unity 2019.4 or higher
+- Unity 2022 or higher (Recommended LTS supported)
 - Vuforia Engine SDK
 - Android SDK and NDK
 - Android device with ARCore support
+
+## 📱 Building the Application
+
+### Important: URP Requirement
+**This project must be configured to use Universal Render Pipeline (URP) before building.**
+
+### Build Steps
+
+1. **Set up URP** (if not already configured)
 
 ### Setup Steps
 
@@ -141,8 +151,6 @@ git clone https://github.com/Jaswanthk07/AR-BOOK-Project.git
 - **Visual Learning** - 3D visualization improves understanding
 - **Accessibility** - Suitable for all age groups
 - **Innovation** - Demonstrates AR's potential in education
-
----
 
 ---
 
